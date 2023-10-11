@@ -2,7 +2,7 @@
 Projet gd3 lisaa 23/24
 
 # Cours
-- exo Enhanced Input : throw gun
+- exo Enhanced Input : throw gun (https://youtu.be/uU3qE6usbUI)
 
 # Module
 - Game Instance
